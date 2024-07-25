@@ -84,15 +84,14 @@ public class Lutador extends Pessoa {
 }
 ```
 ### 3. Herança
-```
-
+```java
 public class Lutador extends Pessoa {
     // Atributos e métodos adicionais específicos de um lutador
 }
 ```
 
 ### 4. Polimorfismo
-```
+```java
 package ultraemojicombat;
 
 public class Ultraemojicombat {
